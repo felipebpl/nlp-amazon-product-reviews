@@ -119,16 +119,22 @@ The project is divided into several sections, each focusing on different aspects
 5. **Running the Analysis:**
 
     1. Place the Dataset:
+   
 
-      - Ensure the dataset files are located in the data directory within the project folder.
+         - Ensure the dataset files are located in the data directory within the project folder.
+   
 
     2. Run the Main Script:
 
-      ```bash
-      python src/main.py
-      ```
-      - This script will execute all sections of the project sequentially.
+         ```bash
+         python src/main.py
+         ```
+         
+         - This script will execute all sections of the project sequentially.
+   
+   
 
     3. View the Outputs:
+   
 
-      - Results, plots, and analysis summaries will be displayed in the console or saved to the output directory as configured.
+         - Results, plots, and analysis summaries will be displayed in the console or saved to the output directory as configured.
